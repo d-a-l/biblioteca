@@ -1,0 +1,9 @@
+extends: book_part.j2
+default_block: book
+listable: true
+status: 1
+comments_status: hidden
+section_type: capítulo
+book_title: Los Siete Locos
+author: Roberto Arlt
+show_author: 0

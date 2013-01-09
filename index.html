@@ -1,0 +1,12 @@
+---
+extends: false
+listable: false
+---
+<div class="" id="{{resource.meta.node_title}}">
+   <h3>{{resource.meta.node_title}}</h3>
+   <ul>
+   {% for res in resource.node.walk_resources_sorted_by_time() %}
+	<li><a href="{{res.url}}">{{res.meta.title}}</a></li>
+   {% endfor %}
+   </ul>
+</div>

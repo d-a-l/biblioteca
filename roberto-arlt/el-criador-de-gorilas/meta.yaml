@@ -1,0 +1,10 @@
+extends: book_part.j2
+default_block: book
+listable: true
+status: 1
+comments_status: hidden
+section_type: cuento
+book_title: El Criador de Gorilas
+is_child: true
+author: Roberto Arlt
+show_author: 1
