@@ -1,5 +1,5 @@
 ---
-title: ¿Quiere ser Ustred diputado?
+title: ¿Quiere ser Usted diputado?
 order: 37
 
 ---

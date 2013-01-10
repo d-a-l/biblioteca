@@ -2,7 +2,7 @@ extends: book_part.j2
 default_block: book
 listable: true
 status: 1
-comments_status: hidden
+comments_status: open
 section_type: subcapítulo
 book_title: Los lanzallamas
 author: Roberto Arlt
