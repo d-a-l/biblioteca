@@ -8,7 +8,8 @@ Me escribe un lector:
 
 *"Me interesaría muchísimo que Vd. escribiera algunas notas sobre los libros que deberían leer los jóvenes, para que aprendan y se formen un concepto claro, amplio, de la existencia (no exceptuando, claro está, la experiencia propia de la vida)".*
 
-NO LE PIDE NADA EL CUERPO...
+
+### No le pide nada el cuerpo...
 
 No le pide nada a usted el cuerpo, querido lector. Pero, ¿en dónde vive? ¿Cree usted acaso, por un minuto, que los libros le enseñarán a formarse "un concepto claro y amplio de la existencia"? Está equivocado, amigo; equi­vocado hasta decir basta. Lo que hacen los libros es desgraciarlo al hombre, créalo. No conozco un solo hombre feliz que lea. Y tengo amigos de todas las edades. Todos los individuos de existencia más o menos complicada que he conocido habían leído. Leído, desgraciadamente, mucho.
 
