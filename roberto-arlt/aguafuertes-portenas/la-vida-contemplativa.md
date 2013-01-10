@@ -1,6 +1,7 @@
 ---
 title: La vida contemplativa
 order: 32
+
 ---
 
 Para dedicarse a la vida rea-contemplativa, hay que tener vocación, vale decir, hay que esgunfiarse. No conozco en el léxico castellano un vo­cablo que encierre tan profundo significado filosófico como el verbo re­flexivo que acabo de citar, y que pertenece a nuestro reo hablar.		

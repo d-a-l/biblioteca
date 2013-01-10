@@ -1,6 +1,7 @@
 ---
 title: El placer de vagabundear
 order: 17
+
 ---
 
 Comienzo por declarar que creo que para vagabundear se necesitan excepcionales condiciones de soñador. Ya lo dijo el ilustre Macedonio Fer­nández: "No toda es vigilia la de los ojos abiertos".

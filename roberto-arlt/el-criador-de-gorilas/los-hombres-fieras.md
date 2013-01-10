@@ -1,6 +1,7 @@
 ---
 title: Los hombres fieras
 order: 4
+
 ---
 
 El sacerdote negro apoyó los pies en un travesa­ño de bambú del barandal de su bungalow, y mi­rando un elefante que se dirigía hacia su establo cruzando las calles de Monrovia, le dijo al joven juez Denis, un negro americano llegado hacía poco de Harlem a la Costa de Marfil:

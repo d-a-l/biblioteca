@@ -1,6 +1,7 @@
 ---
 title: ¿No se lo decía yo?
 order: 20
+
 ---
 
 Siempre que en una casa, por intercesión o culpa de un tercero, ocurre un desbarajuste, no falta un miembro de la familia que exclame, regocijado: 	-¿No se lo decía yo? Siempre me pareció que esto iba a terminar así. 	Como es natural, sobre si el referido miembro lo dijo o no lo dijo, se ar­ma otra pelotera de San Quintín; pelotera que en modo alguno aclara el lío, sino que lo enturbia más, pues por efecto de los ánimos explosivos, viene a suscitar nuevos chismes, nuevas historias, nuevos coscorrones.

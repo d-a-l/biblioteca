@@ -1,6 +1,7 @@
 ---
 title: Del que no se casa
 order: 25
+
 ---
 
 Yo me hubiera casado. Antes sí, pero ahora no. ¿Quién es el audaz que se casa con las cosas como están hoy?

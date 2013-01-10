@@ -1,6 +1,7 @@
 ---
 title: El hombre del turbante verde
 order: 10
+
 ---
 
 A ningún hombre que hubiera viajado durante cierto tiempo por tierras del Islam podían quedar­le dudas de que aquel desconocido que caminaba por el tortuoso callejón arrastrando sus babuchas amarillas era un piadoso creyente. El turbante ver­de de los sacrificios adornaba la cabeza del foras­tero, indicando que su poseedor hacía muy poco tiempo había visitado la Ciudad Santa. Anillos de cobre y de plata, con grabados signos astrológicos destinados a defenderle de los malos espíritus y de aojamientos, cargaban sus dedos.

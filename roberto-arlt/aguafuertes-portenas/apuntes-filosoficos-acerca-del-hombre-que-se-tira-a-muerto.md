@@ -1,6 +1,7 @@
 ---
 title: Apuntes filosóficos acerca del hombre que "se tira a muerto"
 order: 10
+
 ---
 
 Antes de iniciar nuestro grandioso y bello estudio acerca del "hom­bre que se tira a muerto", es necesario que nosotros, humildes mortales, ensalcemos a Marcelo de Courteline, el magnífico y nunca bien pondera­do autor de Los señores chupatintas, y el que más amplia y jovialmente ha tratado de cerca al gremio nefasto de los "que se tiran a muerto", gre­mio parásito e imperturbable, que tiene puntos de contacto con el "sque­nun", gremio de sujetos que tienen caras de otarios y que son más despa­bilados que linces. Y cumplido ya nuestro deber con el señor de Courteli­ne, entramos de lleno en nuestra simpática apología.

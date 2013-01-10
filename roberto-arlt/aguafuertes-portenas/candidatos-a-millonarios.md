@@ -1,6 +1,7 @@
 ---
 title: Candidatos a millonarios
 order: 33
+
 ---
 
 No hay hoy turro que haya invertido diez centavos en una suscrip­ción colectiva para comprar un vigésimo de la de los dos millones, que no se considere con derecho a mirarlo por encima del hombro, ante la ridícula perspectiva de una imposible riqueza. Si no camine usted por el centro y fíjese. Frente a las vidrieras de las agencias de automóviles, hay detenidos, a toda hora, zaparrastrosos inverosímiles, que relojean una má­quina de diez mil para arriba y piensan si ésa es la marca que les conviene comprar, mientras estrujan en el bolsillo la única monedita que les servi­rá para almorzar y cenar en un bar automático.

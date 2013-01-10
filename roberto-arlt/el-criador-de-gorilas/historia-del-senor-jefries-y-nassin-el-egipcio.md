@@ -1,6 +1,7 @@
 ---
 title: Historia del señor Jefries y Nassin el Egipcio
 order: 14
+
 ---
 
 No exagero si afirmo que voy a narrar una de las aventuras más extraordinarias que pueden haberle acontecido a un ser humano, y ese ser humano soy yo, Juan Jefries. Y también voy a contar por qué motivo desenterré un cadáver del cementerio de Tánger y por qué maté a Nassin el Egipcio, conocido de mucha gente por sus aficiones a la magia.

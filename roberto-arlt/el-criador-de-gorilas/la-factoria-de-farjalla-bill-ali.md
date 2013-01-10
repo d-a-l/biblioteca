@@ -1,6 +1,7 @@
 ---
 title: La Factoría de Farjalla Bill Ali
 order: 1
+
 ---
 
 Los que me conocían, al enterarse de que iba a trabajar en el criadero de gorilas de Farjalla Bill Alí se encogieron compasivamente de hombros.

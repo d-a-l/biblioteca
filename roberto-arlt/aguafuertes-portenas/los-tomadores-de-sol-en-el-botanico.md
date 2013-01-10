@@ -1,6 +1,7 @@
 ---
 title: Los tomadores de sol en el Botánico
 order: 9
+
 ---
 
 La tarde de ayer lunes fue espléndida. Sobre todo para la gente que nada tenía que hacer. Y más aún para los tomadores de sol consuetudina­rios.

@@ -1,6 +1,7 @@
 ---
 title: Yo no tengo la culpa
 order: 1
+
 ---
 
 Yo siempre que me ocupo de cartas de lectores, suelo admitir que se me hacen algunos elogios. Pues bien, hoy he recibido una carta en la que no se me elogia. Su autora, que debe ser una respetable anciana, me dice:

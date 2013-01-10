@@ -1,6 +1,7 @@
 ---
 title: Silla en la vereda
 order: 11
+
 ---
 
 Llegaron las noches de las sillas en la vereda; de las familias estanca­das en las puertas de sus casas; llegaron, las noches del amor sentimental de "buenas noches, vecina", el político e insinuante "¿cómo le va, don Pascual?". Y don Pascual sonrie .y se atusa los "baffi", que bien sabe por qué el mocito le pregunta cómo le va. Llegaron las noches...

@@ -1,6 +1,7 @@
 ---
 title: Rahutia la bailarina
 order: 3
+
 ---
 
 En el arrabal morisco de Tetuán, en la callejuela de Dar Vomba, precisamente junto a los arcos que la techan dándole la apariencia de un subterráneo azulado, vivía hasta hace pocos años Ibu Abucab, comerciante y fabricante de babuchas.

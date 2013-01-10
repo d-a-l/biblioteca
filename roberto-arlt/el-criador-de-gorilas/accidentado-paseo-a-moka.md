@@ -1,6 +1,7 @@
 ---
 title: Accidentado paseo a Moka
 order: 9
+
 ---
 
 Cuando el Caballo Verde salió del puerto de Santa Isabel, el noble anciano, apoyado de codos en la pasarela del paquete, cargado de negros he­diondos y pirámides de bananas, me dijo al mismo tiempo que miraba entristecido cómo la isla de Fernando Po empequeñecía a la distancia:

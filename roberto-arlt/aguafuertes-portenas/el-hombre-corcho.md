@@ -1,6 +1,7 @@
 ---
 title: El Hombre Corcho
 order: 19
+
 ---
 
 El hombre corcho, el hombre que nunca se hunde, sean cuales sean los acontecimientos turbios en que está mezclado, es el tipo más intere­sante de la fauna de los pilletes.

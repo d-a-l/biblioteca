@@ -1,6 +1,7 @@
 ---
 title: La madre en la vida y en la novela
 order: 31
+
 ---
 
 Me acuerdo que cuando se estrenó la película La Madre, de Máximo Gorki, fue en un cinematógrafo aristocrático de esta ciudad. Los palcos desbordaban de gente elegante y superflua. La cinta interesaba, sobre to­das las cosas, por ser del más grande cuentista ruso, aunque la tesis... la tesis no debía ser vista con agrado por esa gente.

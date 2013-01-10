@@ -1,6 +1,7 @@
 ---
 title: ¡Atenti, nena, que el tiempo pasa!
 order: 18
+
 ---
 
 Hoy, mientras venía en el tranvía, carpeteaba a una jovenzuela que, acompañada por el novio, ponía cara de hacerle un favor a éste permi­tiéndole que estuviera al lado. En todo el viaje no dijo otra palabra que no fuera sí o no. Y para ahorrarse saliva movía la "zabeca" como mula noriega. El gil que la acompañaba ensayaba todo el arte de conversa­ción, pero al ñudo; porque la nena se hacía la interesante y miraba al es­pacio como si buscara algo que fuera menos zanahoria que el acompa­ñante.

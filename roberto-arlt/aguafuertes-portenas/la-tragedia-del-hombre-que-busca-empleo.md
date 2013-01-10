@@ -1,6 +1,7 @@
 ---
 title: La tragedia del hombre que busca empleo
 order: 36
+
 ---
 
 La persona que tenga la saludable costumbre de levantarse tempra­no, y salir en tranvía a trabajar o a tomar fresco, habrá a veces observa­do el siguiente fenómeno:

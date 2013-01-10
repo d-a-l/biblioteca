@@ -1,6 +1,7 @@
 ---
 title: Soliloquio del solterón
 order: 3
+
 ---
 
 Me miro el dedo gordo del pie, y gozo.

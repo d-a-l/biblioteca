@@ -1,6 +1,7 @@
 ---
 title: La muchacha del atado
 order: 7
+
 ---
 
 Todos los días, a las cinco de la tarde, tropiezo con muchachas que vienen de buscar costura.

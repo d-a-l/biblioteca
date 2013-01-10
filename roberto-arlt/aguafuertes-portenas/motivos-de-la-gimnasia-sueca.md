@@ -1,6 +1,7 @@
 ---
 title: Motivos de la gimnasia sueca
 order: 12
+
 ---
 
 Yo no sé si ustedes se han fijado el calor brutal que hacía ayer. ¿No? Era una temperatura como para refugiarse en un "bungalow" y buscar media docena de bayaderas para que con plumeros le hicieran fresco a uno. Y sin embargo vi a un hombre que se envolvía en franela. Les pare­cerá absurdo, pero vean cómo fue.

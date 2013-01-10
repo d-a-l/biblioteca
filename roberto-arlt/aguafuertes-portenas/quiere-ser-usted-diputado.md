@@ -1,6 +1,7 @@
 ---
 title: ¿Quiere ser Ustred diputado?
 order: 37
+
 ---
 
 Si usted quiere ser diputado, no hable en favor de las remolachas, del petróleo, del trigo, del impuesto a la renta; no hable de fidelidad a la Constitución, al país; no hable de defensa del obrero, del empleado y del niño. No; si usted quiere ser diputado, exclame por todas partes: 	

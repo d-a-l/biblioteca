@@ -1,6 +1,7 @@
 ---
 title: El que siempre da la razón
 order: 15
+
 ---
 
 Hay un tipo de hombre que no tiene color definido, siempre le da a usted la razón, siempre sonríe, siempre está dispuesto a condoler­se con su dolor y a sonreír con su alegría, y ni por broma contradice a nadie, ni tampoco habla mal de sus prójimos, y todos son buenos pa­ra él, y, aunque se le diga en la propia cara: "¡Usted es un hipócri­ta!" es imposible hacerle abandonar su estudiada posición de ecuani­midad.

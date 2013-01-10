@@ -1,6 +1,7 @@
 ---
 title: La cadena del ancla
 order: 8
+
 ---
 
 Cuando a fines del año 1935 visité Marruecos, el tema general de las conversaciones giraba en torno a las actividades de los espías de las potencias ex­tranjeras. Tánger se había convertido en una especie	 de cuartel general de los diversos Servicios Secre- tos. En Algeciras comenzaba ya esa atmósfera de turbia vigilancia y contravigilancia que se extiende por toda África costera al Mediterráneo.

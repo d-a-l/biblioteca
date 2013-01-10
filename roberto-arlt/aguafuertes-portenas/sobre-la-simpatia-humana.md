@@ -1,6 +1,7 @@
 ---
 title: Sobre la simpatía humana
 order: 34
+
 ---
 
 Usted camina por la calle, y todas las personas son aparentemente iguales. Pero dicha gente se pone en contacto con usted y, de pronto, siente que se desconcierta, que la vida de los prójimos es tan complicada como puede serlo la suya, que de continuo, en todas direcciones, hay espíritus que lanzan a toda hora su S.O.S Escribo esto porque hoy me he queda­do caviloso frente a un montón de cartas que he recibido.

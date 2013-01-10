@@ -1,6 +1,7 @@
 ---
 title: Odio desde la otra vida
 order: 9
+
 ---
 
 Fernando sentía la incomodidad de la mirada del árabe, que, sentado a sus espaldas a una mesa de esterilla en el otro extremo de la terraza, no apar­taba posiblemente la mirada de su nuca. Sin po­derse contener se levantó, y, a riesgo de pasar por un demente a los ojos del otro, se detuvo frente a la mesa del marroquí y le dijo:

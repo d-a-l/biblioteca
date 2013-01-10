@@ -1,6 +1,7 @@
 ---
 title: El hombre del apuro
 order: 24
+
 ---
 
 El hombre que "necesita un millón de pesos para mañana a la maña­na sin falta" no es un mito ni una creación de los desdichados que tienen que servirle todos los días un plato humorístico a los lectores de un periódico; no.

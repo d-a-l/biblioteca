@@ -1,6 +1,7 @@
 ---
 title: Psicología simple del latero
 order: 30
+
 ---
 
 Usted estaba sentado gozando de la fresca viruta. Toda su alma se disolvía en una especie de ecuanimidad que alcanzaba hasta a los últimos bicharracos de la tierra, y a medida que disfrutaba de la fresca viruta apol­tronado en la mesa del café, se iba diciendo a sí mismo:

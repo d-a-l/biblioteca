@@ -1,6 +1,7 @@
 ---
 title: Ventanas iluminadas
 order: 13
+
 ---
 
 La otra noche me decía el amigo Feilberg, que es el coleccionista de las historias más raras que conozco:

@@ -1,6 +1,7 @@
 ---
 title: La decadencia de la receta médica
 order: 26
+
 ---
 
 Parodiando a Rudyard Kipling, diré:

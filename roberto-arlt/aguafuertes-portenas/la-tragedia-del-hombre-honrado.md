@@ -1,6 +1,7 @@
 ---
 title: La tragedia del hombre honrado
 order: 8
+
 ---
 
 Todos los días asisto a la tragedia de un hombre honrado. Este hom­bre honrado tiene un café que bien puede estar evaluado en treinta mil pesos o algo más. Bueno: este hombre honrado tiene una esposa honrada.

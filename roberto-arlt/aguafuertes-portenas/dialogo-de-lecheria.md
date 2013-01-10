@@ -1,6 +1,7 @@
 ---
 title: Diálogo de lechería
 order: 14
+
 ---
 
 Días pasados, tabique por medio, en un lechería con pretensiones de "reservado para familias", escuché un diálogo que se me quedó pegado en el oído, por lo pelafustanesco que resultaba. Indudablemente, el indi­viduo era un divertido, porque las cosas que decía movían a risa. He aquí lo que más o menos retuve:

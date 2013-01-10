@@ -1,6 +1,7 @@
 ---
 title: Ejercicio de artillería
 order: 6
+
 ---
 
 Esta historia debía llamarse no "Ejercicio de ar­tillería", sino "Historia de Muza y los siete tenien­tes españoles", y yo, personalmente, la escuché en el mismo zoco de Larache, junto a la puerta de Ksaba, del lado donde terminan las encaladas arca­das que ocupan los mercaderes del Garb; y contaba esta historia un "zelje" que venía de Ouazan, mucho más abajo de Fez, donde ya pueden cazarse los cor­pulentos elefantes; y aunque, como digo, dicho "zelje" era de Ouazan, parecía muy interiorizado de los sucesos de Larache.
