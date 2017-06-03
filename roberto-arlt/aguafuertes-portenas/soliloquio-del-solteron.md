@@ -42,7 +42,7 @@ Hay días que me despierto con un sentimiento de dulzura florecien­do en mi cor
 
 Si estoy de buen humor, compro un diario y me entero de lo que pasa en el mundo, y siempre me convenzo de que es inútil que pro­grese la ciencia de los hombres si continúan manteniendo duro y agrio su corazón como era el corazón de los seres humanos hace mil años.
 
-Al anochecer vuelvo a mi cuartujo de cenobita, y mientras espero que la sirvienta -una chica muy bruta y muy irritable- ponga la mesa, "sotto voce" canturreo Una furtiva lágrima, o sino Addio del passato o Bei giorni ridenti... Y mi corazón se anega de una paz maravillosa, y no me arrepiento de haber nacido.
+Al anochecer vuelvo a mi cuartujo de cenobita, y mientras espero que la sirvienta -una chica muy bruta y muy irritable- ponga la mesa, "sotto voce" canturreo Una furtiva lágrima, o sino Addio, del passato bei sogni ridenti... Y mi corazón se anega de una paz maravillosa, y no me arrepiento de haber nacido.
 
 No tengo parientes, y como respeto la belleza y detesto la des­composición, me he inscripto en la sociedad de cremaciones para que el día que yo muera el fuego me consuma y quede de mí, como úni­co rastro de mi limpio paso sobre la tierra, unas puras cenizas.
 
